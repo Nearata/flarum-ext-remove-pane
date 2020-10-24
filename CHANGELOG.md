@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Changes](https://github.com/Nearata/flarum-ext-remove-pane/compare/v1.0.0...master)
 
+## [1.1.0] - 2020-10-24
+
+[Changes](https://github.com/Nearata/flarum-ext-remove-pane/compare/v1.0.0...v1.1.0)
+
+- Updated to beta 14
+
 ## [1.0.0] - 2020-08-13
 
 - First release
