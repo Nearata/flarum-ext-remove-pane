@@ -6,6 +6,11 @@
     ],
     "type": "flarum-extension",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/Nearata/flarum-ext-remove-pane/issues",
+        "source": "https://github.com/Nearata/flarum-ext-remove-pane",
+        "forum": "https://discuss.flarum.org/d/24681"
+    },
     "require": {
         "flarum/core": "^0.1.0-beta.14"
     },
