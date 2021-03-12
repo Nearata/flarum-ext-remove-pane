@@ -1,23 +1,30 @@
 # Remove Pane
 
-> A [Flarum](https://flarum.org) extension that remove the discussions side-pane.
+> A [Flarum](https://flarum.org) extension that removes the discussions side-pane.
 
-## Installation
+## Install
 
 ```sh
 composer require nearata/flarum-ext-remove-pane
 ```
 
-## Updating
+## Update
 
 ```sh
 composer update nearata/flarum-ext-remove-pane
 php flarum cache:clear
 ```
 
+## Remove
+
+```sh
+composer remove nearata/flarum-ext-remove-pane
+php flarum cache:clear
+```
+
 ## License
 
-Distributed under the MIT license. See `LICENSE` for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 ## Contributing
 
