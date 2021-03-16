@@ -1,8 +1,7 @@
-import app from 'flarum/app';
-import { extend } from 'flarum/extend';
-import DiscussionPage from 'flarum/components/DiscussionPage';
+import { extend } from 'flarum/common/extend';
+import DiscussionPage from 'flarum/forum/components/DiscussionPage';
 
-app.initializers.add('nearata-remove-pane', () => {
+app.initializers.add('nearata-remove-pane', app => {
     extend(DiscussionPage.prototype, 'oninit', () => app.pane.disable());
 
     extend(DiscussionPage.prototype, 'oncreate', function () {

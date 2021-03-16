@@ -12,7 +12,7 @@
         "forum": "https://discuss.flarum.org/d/24681"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.15"
+        "flarum/core": ">=0.1.0-beta.16 <=0.1.0"
     },
     "authors": [
         {
@@ -29,6 +29,7 @@
     "extra": {
         "flarum-extension": {
             "title": "Remove Pane",
+            "category": "feature",
             "icon": {
                 "name": "fas fa-columns",
                 "backgroundColor": "#a3b780",
