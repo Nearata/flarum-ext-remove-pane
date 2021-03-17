@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[Changes](https://github.com/Nearata/flarum-ext-remove-pane/compare/v1.0.0...master)
+[Changes](https://github.com/Nearata/flarum-ext-remove-pane/compare/v1.0.0...main)
 
 ## [1.2.0] - 2021-03-16
 
