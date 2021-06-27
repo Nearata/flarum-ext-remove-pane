@@ -12,11 +12,11 @@
         "forum": "https://discuss.flarum.org/d/24681"
     },
     "require": {
-        "flarum/core": ">=0.1.0-beta.16 <=0.1.0"
+        "flarum/core": "^1.0"
     },
     "authors": [
         {
-            "name": "William Di Cicco",
+            "name": "Nearata",
             "email": "williamdicicco@protonmail.com",
             "role": "Developer"
         }
@@ -35,9 +35,6 @@
                 "backgroundColor": "#a3b780",
                 "color": "#fff"
             }
-        },
-        "flagrow": {
-            "discuss": ""
         }
     }
 }

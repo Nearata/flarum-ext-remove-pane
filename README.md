@@ -1,5 +1,7 @@
 # Remove Pane
 
+![supports](https://flarum-badge-api.davwheat.dev/v1/compat-latest/nearata/flarum-ext-remove-pane)
+
 > A [Flarum](https://flarum.org) extension that removes the discussions side-pane.
 
 ## Install
@@ -24,11 +26,4 @@ php flarum cache:clear
 
 ## License
 
-Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
-
-## Contributing
-
-1. Fork it
-2. Commit your changes
-3. Push to the branch
-4. Create a new Pull Request
+Distributed under the MIT license. See [LICENSE](LICENSE) for details.
