@@ -9,6 +9,7 @@ app.initializers.add('nearata-remove-pane', () => {
         for (const i of this.element.children) {
             if (i.className === 'DiscussionPage-list') {
                 i.remove();
+                break;
             }
         }
     });
