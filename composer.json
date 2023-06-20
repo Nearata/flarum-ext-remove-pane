@@ -1,6 +1,6 @@
 {
     "name": "nearata/flarum-ext-remove-pane",
-    "description": "Remove the discussions side-pane.",
+    "description": "Remove the discussion's side-pane.",
     "keywords": [
         "flarum"
     ],
@@ -12,7 +12,7 @@
         "forum": "https://discuss.flarum.org/d/24681"
     },
     "require": {
-        "flarum/core": "^1.0"
+        "flarum/core": "^1.8"
     },
     "authors": [
         {
